@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Food-Panda-v1/static/css/main.d2b1101b.css",
+    "main.js": "/Food-Panda-v1/static/js/main.2799e2a5.js",
+    "static/media/c3.png": "/Food-Panda-v1/static/media/c3.55f83414f33f66456b35.png",
+    "static/media/fi1.png": "/Food-Panda-v1/static/media/fi1.3f43e51b6058550d1f44.png",
+    "static/media/f1.png": "/Food-Panda-v1/static/media/f1.c52686695ee9a5c4cd0d.png",
+    "static/media/i1.png": "/Food-Panda-v1/static/media/i1.3d9b129d2c5432c6f1fb.png",
+    "static/media/heroBg.png": "/Food-Panda-v1/static/media/heroBg.c43c4862422e70d88698.png",
+    "static/media/delivery.png": "/Food-Panda-v1/static/media/delivery.bf9130a0962fbe091abc.png",
+    "static/media/bg-card.png": "/Food-Panda-v1/static/media/bg-card.44aba7e095dc64966ecc.png",
+    "static/media/avatar.png": "/Food-Panda-v1/static/media/avatar.68cdc4513e601d28a382.png",
+    "static/media/NotFound.svg": "/Food-Panda-v1/static/media/NotFound.4e90bb93460bfd8d9e2c86b42ef91a4a.svg",
+    "static/media/empty.svg": "/Food-Panda-v1/static/media/empty.d28e78edbcd06808a010d16c5e3fb444.svg",
+    "index.html": "/Food-Panda-v1/index.html",
+    "static/media/success.svg": "/Food-Panda-v1/static/media/success.eb9bdf8e911daaab437255051ceb9f96.svg",
+    "static/media/missing.svg": "/Food-Panda-v1/static/media/missing.e972016e706706087bf1d9d0a626ca79.svg",
+    "main.d2b1101b.css.map": "/Food-Panda-v1/static/css/main.d2b1101b.css.map",
+    "main.2799e2a5.js.map": "/Food-Panda-v1/static/js/main.2799e2a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b1101b.css",
+    "static/js/main.2799e2a5.js"
+  ]
+}
