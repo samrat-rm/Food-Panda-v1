@@ -1,0 +1,7 @@
+.addingMargin {
+    margin-bottom: 28px;
+    margin-top: 18px;
+}
+.marginFor1stChild:last-child {
+    margin-top: 50px;
+}

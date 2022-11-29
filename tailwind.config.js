@@ -56,6 +56,9 @@ module.exports = {
                 cartItem: "#2e3033",
                 cartTotal: "#343739",
             },
+            backgroundImage: {
+                cardBg: "url('./img/bg-card.png')",
+            },
         },
     },
     plugins: [],
